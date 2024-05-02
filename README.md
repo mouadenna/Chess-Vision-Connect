@@ -1,6 +1,17 @@
 # Chess-Vision-Connect
 
 ## Introduction
-during my journey learning Deep learning i always was thinking of a project to do beside that, and even more a project that will make me happy during it's realization so chess was one of my first thought so here chess vision connect came
-## how does it work
-first i have uploaded the yolo models i used which are yolov8s for chess pieces detection and yolov8n for detecting corners i tried hardly to balance between performance and speed so these are the best ones you can access these models on kaggle from here[https://www.kaggle.com/datasets/mouadenna/models-chessvision] as well as stockfish engine i used to evaluate chess position you can download it from the official website[https://stockfishchess.org/download/] make sure not to run the notebook on a cloud envirement since i already tried and my accound got banned that's because the stockfish executable file
+
+Throughout my journey in deep learning, I've been on the lookout for a project that not only enhances my skills but also brings me joy. That's when the idea of Chess-Vision-Connect emerged. 
+
+## How Does It Work?
+
+At the heart of Chess-Vision-Connect are YOLOv8 models meticulously trained on my personal chess board. Striking a balance between performance and speed was paramount, leading me to deploy YOLOv8s for chess piece detection and YOLOv8n for corner detection. You can access these models on Kaggle [here](https://www.kaggle.com/datasets/mouadenna/models-chessvision).
+
+Additionally, to evaluate chess positions, I integrated the renowned Stockfish engine. However, I must caution against running the notebook on a cloud environment, as my account was previously banned due to the Stockfish executable file.
+
+Furthermore, if you happen to possess the same chess board as mine, it would greatly enhance the project's accuracy and effectiveness.
+
+## Project Duration
+
+This project has been a labor of love, consuming approximately two months of my time. Despite the challenges, the experience gained has been invaluable, deepening my understanding of both deep learning and the intricacies of chess.
