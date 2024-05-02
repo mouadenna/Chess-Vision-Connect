@@ -16,7 +16,8 @@ Additionally, to evaluate chess positions, I integrated the renowned Stockfish e
 Furthermore, if you happen to possess the same chess board as mine, it would be great.
 
 The main pipeline of the project involves processing a chessboard image to extract game state details. It begins by resizing and aligning the image properly. Then, it detects chess pieces, transforms their positions, and generates a board state representation, often in FEN format. If required, it infers a move and highlights it on the board. 
-
+The full process is illustrated in the image bellow 
+![ful-process](https://github.com/mouadenna/Chess-Vision-Connect/blob/main/full%20process.png)
 
 
 
