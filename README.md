@@ -6,6 +6,7 @@ Throughout my journey in deep learning, I've been on the lookout for a project t
 
 ## How Does It Work?
 
+[https://github.com/mouadenna/Chess-Vision-Connect/blob/main/output.png]
 
 At the heart of Chess-Vision-Connect are YOLOv8 models meticulously trained on my personal chess board. Striking a balance between performance and speed was paramount, leading me to deploy YOLOv8s for chess piece detection and YOLOv8n for corner detection. You can access these models on Kaggle [here](https://www.kaggle.com/datasets/mouadenna/models-chessvision).
 
