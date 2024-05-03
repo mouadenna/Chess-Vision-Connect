@@ -8,7 +8,7 @@ During my journey in deep learning, I've been searching for a project that not o
 
 ![Chess-Vision-Connect Output](https://github.com/mouadenna/Chess-Vision-Connect/blob/main/output.png?raw=true "Chess-Vision-Connect Output")
 
-First, I uploaded the YOLO models I used, which are YOLOv8s for chess piece detection and YOLOv8n for detecting corners. I made a concerted effort to balance performance and speed, ensuring these models are among the best available. You can access these models on Kaggle from this [link](https://www.kaggle.com/datasets/mouadenna/models-chessvision). Additionally, I utilized the Stockfish engine to evaluate chess positions. You can download it from the official website [here](https://stockfishchess.org/download/). However, please note that you should not run the notebook on a cloud environment, as I have already tried and my kaggle account got banned due to the Stockfish executable file.
+First, I uploaded the YOLO models I used, which are YOLOv8s for chess pieces detection and YOLOv8n for detecting corners. I made a concerted effort to balance performance and speed, ensuring these models are among the best available. You can access these models on Kaggle from this [link](https://www.kaggle.com/datasets/mouadenna/models-chessvision). Additionally, I utilized the Stockfish engine to evaluate chess positions. You can download it from the official website [here](https://stockfishchess.org/download/). However, please note that you should not run the notebook on a cloud environment, as I have already tried and my kaggle account got banned due to the Stockfish executable file.
 
 
 Furthermore, if you happen to have the same chess board as mine, it would be great.
