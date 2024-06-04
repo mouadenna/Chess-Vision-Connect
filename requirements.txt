@@ -1,0 +1,10 @@
+ultralytics
+matplotlib
+numpy
+pillow
+opencv-python
+shapely
+torch
+torchvision
+stockfish
+supervision
